@@ -1,0 +1,13 @@
+table {
+    width: 100%;
+}
+
+table .Par {
+    background-color: gray;
+}
+
+table th {
+    background-color: #272727;
+    color: honeydew;
+
+}
