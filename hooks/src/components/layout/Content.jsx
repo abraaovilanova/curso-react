@@ -9,6 +9,7 @@ import UseState from '../../views/examples/UseState'
 import Home from '../../views/examples/Home'
 import UseCallback from '../../views/examples/UseCallback'
 import UseContext from '../../views/examples/UseContext'
+import UseReducer from '../../views/examples/UseReducer'
 
 const Content = props => {
     return (
@@ -41,6 +42,10 @@ const Content = props => {
 
                 <Route path="/usecontext">
                     <UseContext />
+                </Route>
+
+                <Route path="/usereducer">
+                    <UseReducer />
                 </Route>
 
             </Switch>
