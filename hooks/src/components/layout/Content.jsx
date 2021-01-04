@@ -10,6 +10,7 @@ import Home from '../../views/examples/Home'
 import UseCallback from '../../views/examples/UseCallback'
 import UseContext from '../../views/examples/UseContext'
 import UseReducer from '../../views/examples/UseReducer'
+import UseCustom from '../../views/examples/UseCustom'
 
 const Content = props => {
     return (
@@ -46,6 +47,10 @@ const Content = props => {
 
                 <Route path="/usereducer">
                     <UseReducer />
+                </Route>
+
+                <Route path="/usemyhook">
+                    <UseCustom />
                 </Route>
 
             </Switch>
