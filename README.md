@@ -8,7 +8,7 @@ Curso na Udemy desenvolvido pela Cod3r e ministrado pelo professor Leo!
 - [ ] Projeto Calculadora
 - [x] Navegação com React Router
 - [x] React Hooks
-- [ ] TodoApp (Backend) 
+- [x] TodoApp (Backend) 
 - [ ] TodoApp (Frontend) 
 - [x] Gerenciamento de Estado com Redux
 - [ ] TodoApp (Migração para Redux)
